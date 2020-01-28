@@ -1,3 +1,4 @@
 Git practice
 git add 
 git commit 
+git remove
